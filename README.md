@@ -1,3 +1,15 @@
+# TUGAS 7 REACT JS
+
+# Tujuan :
+
+- Memahami cara installasi Bootstrap.
+- Memahami cara penggunaan Layout dan Media.
+- Memahami cara penggunaan Badge.
+- Memahami cara penggunaan Breadcrumbs.
+- Memahami cara penggunaan Buttons.
+- Memahami cara penggunaan Buttons Group.
+- Memahami cara penggunaan Card.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
